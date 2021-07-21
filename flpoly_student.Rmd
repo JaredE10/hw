@@ -1,0 +1,33 @@
+## Jared Espindola-Velazco
+
+### Summer 2021 
+
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+
+```{r}
+class <- data.frame(
+  Prefix = c("COP", "MAC"),
+  Number = c("2073", "1147"),
+  Name = c("Introduction to Data Science", "Precalculus Algebra/Trigonometry"),
+  Credits = c("3", "3")
+)
+```
+
+```{r}
+ print(class)
+```
+
+
+**Hobbies:**
+
+I am _passionate about_: 
+
+- Gaming
+
+- Watching youtube or anime
+
+- Computer science
+
+***
+
+> Last modified: 2021/07/20
